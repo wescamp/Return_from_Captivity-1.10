@@ -1,0 +1,38 @@
+            {IF_VAR drowning_unit[$i].movement_costs.deep_water boolean_equals 0 (
+                [then]
+                    [scroll_to]
+                        x,y=$drowning_unit[$i].x,$drowning_unit[$i].y
+                    [/scroll_to]
+
+                    [sound]
+                        name=mermen-hit.wav
+                    [/sound]
+
+                    [message]
+                        x,y=$drowning_unit[$i].x,$drowning_unit[$i].y
+                        message= _"Help, I'm drowning!"
+                    [/message]
+
+                    [kill]
+                        x,y=$drowning_unit[$i].x,$drowning_unit[$i].y
+                        animate=yes
+                        fire_event=yes
+                    [/kill]
+                [/then]
+                [else]
+					# else
+                [/else]
+            )}
+
+	            [store_unit] # it isn't currently really usefull
+	                [filter]
+	                    [filter_location]
+	                        find_in=detector_$P
+	                    [/filter_location]
+	                    [not]
+	                        find_in=enemies_found
+	                    [/not]
+	                [/filter]
+	                variable=enemies_found
+	                mode=append
+	            [/store_unit]
