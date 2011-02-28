@@ -65,10 +65,25 @@
  : balancing
  : cleaned up the code
 
-0.9.9a
+1.0
  : quick fix
+ : added ai controller in 'save the forest'
+ : ironed out some glitches
+ : final release for 1.8
 
 TODO
  : none so far
- : maybe an difficulty setting
+
+------------------------------------------------1.9----------------------------------------
+0.9
+ : first release (BfW 1.9.4)
+
+0.9.1
+ : bugfixing
+ : temple images
+ : custom castle (Open Sesame)
+
+TODO
+ : finishing conversation (mostly minor tweaks)
+
 -----------------------------------------trewe---------------------------------------------
