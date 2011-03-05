@@ -40,7 +40,7 @@
  : reduced heavily the invocation of id's in messages, and code in general
  : a lot of tweaks
  : saurians only start recruting after they meet with the players
- : changed slightly the macro of the ambushers in 'open sesame' 
+ : changed slightly the macro of the ambushers in 'open sesame'
  : loyal units automatically recalled in last scenario (except mermen)
 
 0.9.7
@@ -83,7 +83,13 @@ TODO
  : temple images
  : custom castle (Open Sesame)
 
+0.9.2
+ : bugfixing
+ : decreased stats of elf raindancer tree
+ : some force_chance_to_hit in first scenario to prevent loosing exclusive to bad luck
+
 TODO
  : finishing conversation (mostly minor tweaks)
-
+ : looking closer how the cave random map generator works...
+ : changing thirsty gui (image_mod ~CS on unit and icon on the panel)
 -----------------------------------------trewe---------------------------------------------
