@@ -88,8 +88,13 @@ TODO
  : decreased stats of elf raindancer tree
  : some force_chance_to_hit in first scenario to prevent loosing exclusive to bad luck
 
+0.9.4
+ : update with BfW 1.9.5
+ : adding portuguese (continental) translation
+
 TODO
  : finishing conversation (mostly minor tweaks)
  : looking closer how the cave random map generator works...
  : changing thirsty gui (image_mod ~CS on unit and icon on the panel)
------------------------------------------trewe---------------------------------------------
+
+-----------------------------------------trewe / sjrs456 at yahoo dot fr---------------------------------------------
