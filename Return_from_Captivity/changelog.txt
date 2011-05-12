@@ -90,7 +90,11 @@ TODO
 
 0.9.4
  : update with BfW 1.9.5
- : adding portuguese (continental) translation
+ : added portuguese (continental) translation
+
+0.9.5
+ : added khalifate units (as enemy)
+ : minor tweaks
 
 TODO
  : finishing conversation (mostly minor tweaks)
