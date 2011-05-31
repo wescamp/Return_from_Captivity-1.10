@@ -96,6 +96,12 @@ TODO
  : added khalifate units (as enemy)
  : minor tweaks
 
+0.9.6
+ : completed portuguese translation
+
+BUGS
+ : since 1.9 when reloading an save wipes out leader and recall info
+
 TODO
  : finishing conversation (mostly minor tweaks)
  : looking closer how the cave random map generator works...
