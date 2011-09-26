@@ -98,6 +98,10 @@ TODO
 
 0.9.6
  : completed portuguese translation
+ : updaded portuguese translation
+ : minor tweaks
+
+ : added german tranlation
 
 BUGS
  : since 1.9 when reloading an save wipes out leader and recall info
