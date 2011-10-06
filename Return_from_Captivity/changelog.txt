@@ -103,6 +103,10 @@ TODO
 
  : added german tranlation
 
+0.9.7
+ : maked second scenario easier
+ : trolls only charge out at 30 turn (1st scenario)
+
 BUGS
  : since 1.9 when reloading an save wipes out leader and recall info
 
