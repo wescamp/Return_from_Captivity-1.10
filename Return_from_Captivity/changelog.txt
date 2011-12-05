@@ -107,8 +107,10 @@ TODO
  : maked second scenario easier
  : trolls only charge out at 30 turn (1st scenario)
 
+0.9.8
+ : removed khalifate
+
 BUGS
- : since 1.9 when reloading an save wipes out leader and recall info
 
 TODO
  : finishing conversation (mostly minor tweaks)
