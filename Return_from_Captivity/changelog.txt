@@ -110,6 +110,10 @@ TODO
 0.9.8
  : removed khalifate
 
+0.9.9
+ : integrated two sighted event with the ON_SIGHTED macro
+ : added first_time_only=no in 05_Land_of_the Dragons so the scenario is winnable
+
 BUGS
 
 TODO
