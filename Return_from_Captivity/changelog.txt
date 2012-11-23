@@ -114,11 +114,17 @@ TODO
  : integrated two sighted event with the ON_SIGHTED macro
  : added first_time_only=no in 05_Land_of_the Dragons so the scenario is winnable
 
+0.9.10
+ : changed event ai turn to side X turn
+
+0.9.11
+ : removed buggy tunnel tag
+ : cleaned dehydration events
+ : catched an changed terrain id (in core)
+
 BUGS
 
 TODO
- : finishing conversation (mostly minor tweaks)
- : looking closer how the cave random map generator works...
- : changing thirsty gui (image_mod ~CS on unit and icon on the panel)
+: campaign is stable
 
 -----------------------------------------trewe / sjrs456 at yahoo dot fr---------------------------------------------
