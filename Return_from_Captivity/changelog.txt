@@ -122,6 +122,50 @@ TODO
  : cleaned dehydration events
  : catched an changed terrain id (in core)
 
+0.9.12
+ : updaded translations
+
+1.0
+ : 1st scenario:
+	start turn > side 1 turn (more observer friendly)
+ : 2nd scenario:
+	switched trolls to goblins
+	changed HOW the ai recruits (more variety)
+ :3rd scenario:
+	fixed bug of dissapearing items
+ :4th scenario:
+	weakened orcish woodcutters
+	buffed wose income
+ :5th scenario:
+	complete rewrite
+ :6th scenario:
+	changed slightly how the river freezes
+	changed enemy leaders types
+ :7th scenario:
+	small tweaks
+ :8th scenario:
+	complete rewrite
+		.less enemies
+		.less powerfull ones
+		.more favourable ToD
+ :9th scenario:
+	small tweaks
+ :10th scenario:
+	no changes
+ :11th scenario:
+	small tweaks
+
+ Overall:
+	code cleansing
+	added custom prefix to units
+	dissalow_observer=yes on many enemy sides
+	more observer friendly
+	removed a lot of store/unstore's (breaks MP saves)
+	added AI goals and parameters
+	custom traits for main leaders
+	custom portraits for main leaders
+	removed quick trait from dwarf (one of the biggest unbalances left)
+
 BUGS
 
 TODO
