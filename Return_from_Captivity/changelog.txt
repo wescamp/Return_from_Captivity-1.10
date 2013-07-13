@@ -166,9 +166,55 @@ TODO
 	custom portraits for main leaders
 	removed quick trait from dwarf (one of the biggest unbalances left)
 
+1.1.0
+ :4th scenario
+	hopefully fixed gold bonus
+	scatered some hills
+ :5th scenario
+	changed recruit
+	improved gameplay
+	fixed several bugs
+ :orcish woodcutters
+	give impact and fire weakness
+	added pierce armour
+
+ :editor (1.12)
+	added custom units
+
+1.1.1
+ :4th and 5th scenario
+	bugfix
+ :7th and 9th scenario
+	removed unstore unit in flavor of modify_unit
+
+1.1.2
+ : 11th scenario
+	cut starting gold by at least 50%
+	increased heavily income
+	map tweaks
+	some limit_contemporaneous_recruit to force variety
+	made cockatrices recruitable by the players (limited)
+	changed unit types to be rescued
+ :1st scenario
+	removed another unstore_unit
+ :debug
+	removed obsolete unit carryover code
+ :general
+	added starting villages where appropriate
+	added village_gold, for some reason the default is 1 after the first scenario
+	write ability description compatible too 1.11
+
+1.1.3
+ : fixed thirsty units not clearing their status on scenario victory
+ : added fixed tunnel
+ : made the undead ambush in Open Sesame less of a tomatoe surprise
+ : made mermen slightly more usefull through the campaign
+ : dwarves now should have better odds crossing the swamp in the last scenario
+ : scatered some dead tree in The Invisible Legion given elves better survivality
+ : some terrain eye-candy
+
 BUGS
 
 TODO
-: campaign is stable
 
------------------------------------------trewe / sjrs456 at yahoo dot fr---------------------------------------------
+----------------------------------------- trewe / sjrs456 at yahoo dot fr---------------------------------------------
