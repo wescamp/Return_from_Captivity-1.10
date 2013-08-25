@@ -1309,12 +1309,12 @@ msgstr ""
 msgid "RfC-The Tunnel"
 msgstr ""
 
-#. [side]: type=Dwarvish Runesmith, id=dal_phor
+#. [side]: type=Dwarvish Runemaster, id=dal_phor
 #: Return_from_Captivity/scenarios/10_The_Tunnel.cfg:79
 msgid "Dal Phor"
 msgstr ""
 
-#. [side]: type=Dwarvish Runesmith, id=dal_phor
+#. [side]: type=Dwarvish Runemaster, id=dal_phor
 #: Return_from_Captivity/scenarios/10_The_Tunnel.cfg:81
 msgid "Allied Forces"
 msgstr ""
@@ -1517,6 +1517,39 @@ msgstr ""
 msgid "dummy"
 msgstr ""
 
+#. [unit_type]: id=RfC Alchemist, race=dwarf
+#: Return_from_Captivity/units/Alchemist.cfg:7
+msgid "Dwarvish Alchemist"
+msgstr ""
+
+#. [unit_type]: id=RfC Alchemist, race=dwarf
+#: Return_from_Captivity/units/Alchemist.cfg:26
+msgid ""
+"The practice of Alchemy among Dwarves began as an attempt to produce gold "
+"and other valuable resources from worthless rock. A dismal failure, the "
+"practice was shunned and mocked by many. Despite that, many dwarves "
+"continued in the study and discovered ways to use their potions for healing. "
+"As a matter of tradition, any dwarf who enters the profession begins as an "
+"Alchemist and is expected to be able to make potions and clever concoctions "
+"of his own before he is allowed to learn more tricks of the trade. An "
+"Alchemist has learned the basics of the practice, and can heal wounded units "
+"around himself, while preventing poisoned units from weakening."
+msgstr ""
+
+#. [attack]: type=impact
+#: Return_from_Captivity/units/Alchemist.cfg:43
+#: Return_from_Captivity/units/Master_of_Alchemy.cfg:42
+#: Return_from_Captivity/units/Potion_Smith.cfg:42
+msgid "morningstar"
+msgstr ""
+
+#. [attack]: type=impact
+#: Return_from_Captivity/units/Alchemist.cfg:122
+#: Return_from_Captivity/units/Master_of_Alchemy.cfg:121
+#: Return_from_Captivity/units/Potion_Smith.cfg:122
+msgid "bolas"
+msgstr ""
+
 #. [unit_type]: id=RfC Giant Ant, race=monster
 #: Return_from_Captivity/units/Ant.cfg:5
 msgid "Giant Ant"
@@ -1567,6 +1600,20 @@ msgid ""
 "hide in the sand."
 msgstr ""
 
+#. [unit_type]: id=RfC Dwarvish Flamethrower, race=dwarf
+#: Return_from_Captivity/units/Dwarvish_Flamethower.cfg:6
+msgid "Dwarvish Flamethrower"
+msgstr ""
+
+#. [unit_type]: id=RfC Dwarvish Flamethrower, race=dwarf
+#: Return_from_Captivity/units/Dwarvish_Flamethower.cfg:28
+msgid ""
+"It is said that the Dwarven Flamethrowers have strange staves of wood and "
+"iron, similar to those of the Thunderguards. But instead of making a "
+"thunderous noise shooting a projectile, their weapon generates a continuous "
+"tongue of flame, from which cover and shelter offer little protection."
+msgstr ""
+
 #. [unit_type]: id=RfC_RocMaster, race=goblin, description=
 #: Return_from_Captivity/units/Eagle_Master.cfg:5
 msgid "Eagle Master"
@@ -1602,6 +1649,24 @@ msgid ""
 "of impending doom."
 msgstr ""
 
+#. [unit_type]: id=RfC Master of Alchemy, race=dwarf
+#: Return_from_Captivity/units/Master_of_Alchemy.cfg:5
+msgid "Dwarvish Master of Alchemy"
+msgstr ""
+
+#. [unit_type]: id=RfC Master of Alchemy, race=dwarf
+#: Return_from_Captivity/units/Master_of_Alchemy.cfg:25
+msgid ""
+"After having at least five decades of experience, an Alchemist may finally "
+"be able to earn the title 'Master of Alchemy', awarded yearly to elder "
+"Alchemists who have proven their worth on the battlefield. The rare few who "
+"attain this level of experience often retire to train initiate Alchemists, "
+"while some remain on the battlefield for even several more decades. Masters "
+"of Alchemy are revered by even the strongest Dwarvish Lords, and protecting "
+"a Master in battle is considered an honor for only the bravest of dwarvish "
+"warriors."
+msgstr ""
+
 #. [unit_type]: id=RfC Orcish Woodcutter, race=orc
 #: Return_from_Captivity/units/Orcish_Woodcutter.cfg:5
 msgid "Orcish Woodcutter"
@@ -1622,6 +1687,23 @@ msgstr ""
 #. [attack]: type=blade
 #: Return_from_Captivity/units/Orcish_Woodcutter.cfg:42
 msgid "hatchet"
+msgstr ""
+
+#. [unit_type]: id=RfC Potion Smith, race=dwarf
+#: Return_from_Captivity/units/Potion_Smith.cfg:5
+msgid "Dwarvish Potion Smith"
+msgstr ""
+
+#. [unit_type]: id=RfC Potion Smith, race=dwarf
+#: Return_from_Captivity/units/Potion_Smith.cfg:24
+msgid ""
+"The first 'Potion Smiths' were mockingly named by rival Runesmiths who "
+"believed that devoting one's time to the study of mixing potions and leaves "
+"was a worthless endeavor. As time passed the name remained, and is now given "
+"as a title of honor to Alchemists who have advanced their skills "
+"sufficiently to earn them renown on the battlefield. Defeating the effects "
+"of poison is the accomplishment of any Alchemist who becomes a Potion Smith, "
+"and their skills make them in high demand."
 msgstr ""
 
 #. [unit_type]: id=RfC Elf Raindancer, race=elf
@@ -1895,6 +1977,28 @@ msgid ""
 "Dancer:\n"
 "This unit always has a defense of 60% when attacking while not standing in "
 "water, because the enemy cannot get a direct hit."
+msgstr ""
+
+#. [weapon_special_stun]: id=rfc_stun
+#: Return_from_Captivity/utils/abilities.cfg:97
+#: Return_from_Captivity/utils/abilities.cfg:98
+msgid "stun"
+msgstr ""
+
+#. [weapon_special_stun]: id=rfc_stun
+#: Return_from_Captivity/utils/abilities.cfg:99
+#: Return_from_Captivity/utils/abilities.cfg:100
+msgid ""
+"This attack hits so hard that the opponent is dazed and can no longer "
+"enforce a zone of control. The effect wears off on the opponents next turn."
+msgstr ""
+
+#: Return_from_Captivity/utils/abilities.cfg:181
+msgid "female^stunned"
+msgstr ""
+
+#: Return_from_Captivity/utils/abilities.cfg:187
+msgid "stunned"
 msgstr ""
 
 #. [trait]: id=rfc_bragart
