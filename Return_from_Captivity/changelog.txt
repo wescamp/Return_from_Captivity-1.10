@@ -213,6 +213,11 @@ TODO
  : scatered some dead tree in The Invisible Legion given elves better survivality
  : some terrain eye-candy
 
+1.2.0
+ : added dwarvish alchemist line
+ : removed mage from player 2 recruit list
+ : added custom advancenment to dwarvish fighter and thunderer line
+
 BUGS
 
 TODO
