@@ -217,6 +217,9 @@ TODO
  : added dwarvish alchemist line
  : removed mage from player 2 recruit list
  : added custom advancenment to dwarvish fighter and thunderer line
+ 
+1.3.0
+ : added future wml (new mp campaign syntax)
 
 BUGS
 
